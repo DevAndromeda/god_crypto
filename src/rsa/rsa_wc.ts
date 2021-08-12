@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { RSAOption } from "./common.ts";
 import type { RSAKey } from "./rsa_key.ts";
 
